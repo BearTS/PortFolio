@@ -7,6 +7,5 @@ range: 'Aug 2020 - Present'
 url: 'https://theskyfallen.com/'
 ---
 
-- Worked on a complex NLP Chat Model and integrating it to Discord Bot
-- Shipped Packages and providing our in house Chat Bot access to other developers to integrate with their own app
-- Getting to know more about Discord API
+- Shipped and maintained Skyfallen ID, a AaaS app, used internally and externally by various companies
+- Optimized automation, redesigned the backend for Skyfallen Development Center and improved overall performance of it
